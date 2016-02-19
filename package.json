@@ -1,0 +1,16 @@
+{
+  "name": "bunny-memory-leak",
+  "description": "Demo of a memory leak",
+  "license": "MIT",
+  "scripts": {
+    "start": "budo index.js --open"
+  },
+  "dependencies": {
+    "budo": "^8.0.4",
+    "bunny": "^1.0.1",
+    "gl-engine": "latest",
+    "gl-vec3": "^1.0.3",
+    "gl-vignette-background": "^2.0.0",
+    "normals": "^1.0.1"
+  }
+}
